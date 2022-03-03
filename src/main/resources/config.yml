@@ -1,0 +1,35 @@
+Settings:
+  Stars:
+     power: '50'
+  Dust:
+     power: '1000'
+  Lava:
+     power: '1'
+  Crit:
+     power: '100'
+  CritMagic:
+     power: '100'
+  WaterDrop:
+     power: '1000'
+  EnchantTable:
+     power: '100'
+  Heart:
+     power: '100'
+  Portal:
+     power: '50'
+  Spell:
+     power: '100'
+  Slime:
+     power: '50'
+  Snow:
+     power: '100'
+  SnowShowel:
+     power: '100'
+  Totem:
+     power: '100'
+  Angry:
+     power: '100'
+  Happy:
+     power: '100'
+  Note:
+     power: '100'
